@@ -11,6 +11,9 @@
 https://gist.github.com/virgilvox/ffe1cc08a240db9792d3
 
 [elk-spark연동] (http://jason-heo.github.io/elasticsearch/2016/06/28/elasticsearch-with-spark.html)
+
+<br>
+
 $ spark-shell \
 	--master=local[2] \
 	--packages="org.elasticsearch:elasticsearch-spark-20_2.11:7.7.0"
